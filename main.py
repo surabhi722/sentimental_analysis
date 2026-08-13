@@ -15,7 +15,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-model_path = "artifacts/BiGRU.keras"
+model_path = "artifacts/Bigru.keras"
 tokenizer_path = "artifacts/tokenizer.pkl"
 max_sequence_length = 50
 
